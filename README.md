@@ -7,8 +7,6 @@ This repository implements machine learning models to predict the horizontal com
 1. To run the notebook the recommended Python version is 3.9 and the PyTorch version is 1.12.1. 
 2. The other required Python libraries are pandas, numpy, pickle, time, datashader. 
 3. Run the notebook from the beginning once the required libraries are installed locally. 
-
-For each station:
 4. Run the code from the Training section to train a model.
 5. Run the code from the Load section to load the trained model.
 6. Run the code from the Test section to get the prediction results.
