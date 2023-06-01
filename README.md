@@ -1,6 +1,6 @@
 # geomag_predict
 
-This repository implements machine learning models to predict the horizontal component of geomagnetic perturbations on various ground magnetic stations. For now, we implemented the artifical neural networks (ANN) on NEW, OTT, WNG, ABK, YKC stations, originally proposed by [1]. The data were derived from [OMNI](https://cdaweb.gsfc.nasa.gov/pub/data/ omni/omni_cdaweb/) and [SuperMag](https://supermag.jhuapl.edu/) datasets. We used 2010-2014 as the training set and 2015 as the testing set.
+This repository implements machine learning models to predict the horizontal component of geomagnetic perturbations on various ground magnetic stations. For now, we implemented the artifical neural networks (ANN) on NEW, OTT, WNG, ABK, YKC stations, originally proposed by [1]. The data were derived from [OMNI](https://cdaweb.gsfc.nasa.gov/pub/data/omni/omni_cdaweb/) and [SuperMag](https://supermag.jhuapl.edu/) datasets. We used 2010-2014 as the training set and 2015 as the testing set.
 
 ## Examples
 
